@@ -41,19 +41,19 @@ Développée en **Python** avec **PySide6**, l’interface rappelle l’esthéti
 ## 🖼️ Captures d’écran
 
 ### Home
-![Home](streamraptor/assets/screens/1.png)
+![Home](assets/screens/1.png)
 
 ### Downlaods
-![Downlaods](streamraptor/assets/screens/2.png)
+![Downlaods](assets/screens/2.png)
 
 ### On Mac
-![On Mac](streamraptor/assets/screens/3.png)
+![On Mac](assets/screens/5.png)
 
 ### History
-![History](streamraptor/assets/screens/4.png)
+![History](assets/screens/3.png)
 
 ### Credits
-![Credits](streamraptor/assets/screens/5.png)
+![Credits](assets/screens/4.png)
 
 ---
 
@@ -140,4 +140,4 @@ pyinstaller main.py ^
 
 ## 📜 Licence
 
-**MIT** – Libre pour tout usage personnel ou professionnel.
+**MIT** – Libre pour tout usage personnel ou professionnel.# streamraptor
