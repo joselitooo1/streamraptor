@@ -1,0 +1,60 @@
+# === Python cache ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.so
+*.egg-info/
+*.log
+
+# === Virtual environment ===
+.env/
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+
+# === macOS system files ===
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# === Windows system files ===
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# === PyInstaller build ===
+build/
+dist/
+*.spec
+
+# === py2app (macOS) ===
+*.app
+*.dmg
+
+# === Executables ===
+*.exe
+*.msi
+*.pkg
+
+# === IDE files ===
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# === StreamRaptor local history ===
+streamraptor/history/history.json
+streamraptor/downloads/
+downloads/
+
+# === Logs ===
+*.log
+*.tmp
+
+# === Cache ===
+.cache/
+*.bak
